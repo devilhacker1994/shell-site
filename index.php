@@ -19,11 +19,11 @@
 <div class="Armankhan">
 <a href="https://www.Facebook.com/X3.H4NDSOM3" alt="Armankhan" target="_blank">
 <img
-src="https://graph.facebook.com/100009434565722/picture?type=large" alt="Designer_&amp;_Developer" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 9px 7px rgb(204, 204, 204); padding: 0px;" width="200" height="200"></a><a href="https://www.Facebook.com/zain.aqdas.II" alt="USAMAAHMAD" target="_blank">
+src="https://graph.facebook.com/100009434565722/picture?type=large" alt="Designer_&amp;_Developer" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 9px 7px rgb(204, 204, 204); padding: 0px;" width="200" height="200"></a><a href="https://www.Facebook.com/zain.aqdas.II" alt="ARMANKHAN" target="_blank">
 <img
 src="https://graph.facebook.com/100010212424610/picture?type=large" alt="Designer_&amp;_Developer" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 9px 7px rgb(204, 204, 204); padding: 0px;" width="200" height="200"></a>
 <div class="container">
-<marquee behavior="scroll" direction="right" scrollamount="8" scrolldelay="1"><strong><font style="text-shadow: 1px 1px black; color:;" size="4">USAMA AHMAD & ZAIN AQDAS</font></strong></center></marquee>
+<marquee behavior="scroll" direction="right" scrollamount="8" scrolldelay="1"><strong><font style="text-shadow: 1px 1px black; color:;" size="4">ARMAN KHAN & ZAIN AQDAS</font></strong></center></marquee>
   <center><font color="Red" size="+1"><marquee bgcolor="" direction="left" 
 loop="infinite" width="60%"><strong>DESIGNED BY ARMAN KHAN & ZAIN AQDAS
 </strong></marquee></font></center></div></div></font>
@@ -44,7 +44,7 @@ loop="infinite" width="60%"><strong>DESIGNED BY ARMAN KHAN & ZAIN AQDAS
 <button type="button" class="btn btn-danger" onclick="Puaru_Active()" >Get Token</button>
 <p>
 <li id="trave" class="list-group-item"><img src="http://usamabutt.tk/usama.JPG"> </li></p>
- Add Usama Ahmad On Facebook : <a href="https://Www.Facebook.com/100009434565722" 
+ Add ARMAN KHANd On Facebook : <a href="https://Www.Facebook.com/100009434565722" 
 target="blank">Arman Khan</a><br>
 Add Zain Aqdas On Facebook : <a href="https://Www.Facebook.com/zain.aqdas.II" 
 target="blank">zain aqdas II</a>
